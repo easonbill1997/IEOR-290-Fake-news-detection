@@ -6,6 +6,14 @@ This project is for detecting fake news given the body of the news and its relat
 
 The structure of this file mainly consists of  parts: dataset, model training code, saved model, and UI. 
 
+## package we use
+
+numpy, pandas, tensorflow, keras, nltk
+
+## demo video
+
+To see the demo video, its on https://youtu.be/ZBFJSnAmFO4
+
 ## Model training
 
 If you want to try yourself to train the model, you can open ml_model.ipynb for training some machine learning models (Logistic regression, random forest, xgboost etc.), and "neural network training.py" for nn approach. You can also save your model in "model saved" file folder.
