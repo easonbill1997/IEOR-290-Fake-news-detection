@@ -10,6 +10,8 @@ The structure of this file mainly consists of  parts: dataset, model training co
 
 If you want to try yourself to train the model, you can open ml_model.ipynb for training some machine learning models (Logistic regression, random forest, xgboost etc.), and "neural network training.py" for nn approach. You can also save your model in "model saved" file folder.
 
+Note: For neural network part, we use colab to train the model. We also load a pre-trained model in tensorflow hub. It may meet some error if trained offline. 
+
 ## Saved model
 Our team has already trained the model for UI presentation. They are saved in "model saved" file folder. It is directly used in UI. 
 
